@@ -97,5 +97,5 @@ Evidence: [`stage1/04-yolo.png`](stage1/04-yolo.png)
 ## Credits and license
 
 - D-Robotics RDK X5, TogetheROS.Bot and `dnn_node_example`
-- Yahboom Dofbot Ultra hardware and examples (used under their license, credited here)
+- Yahboom Dofbot Ultra hardware and example code — [github.com/YahboomTechnology/DOFBOT-Ultra](https://github.com/YahboomTechnology/DOFBOT-Ultra), MIT License, Copyright (c) 2020 Shenzhen Yahboom Tech. Any Yahboom files used here are kept in [`third_party/yahboom/`](third_party/yahboom/) together with their original license.
 - My own code in this repository: MIT License
